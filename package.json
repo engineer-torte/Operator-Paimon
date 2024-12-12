@@ -1,0 +1,22 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Discordサーバーでゲーミング夜更かし勢を監視して寝るようにつつくサーバーレスパイモンのリポジトリです。非公式の非常食です。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.9.0",
+    "@types/node-fetch": "^2.6.12",
+    "eslint": "^9.14.0",
+    "typescript": "^5.6.3"
+  }
+}
